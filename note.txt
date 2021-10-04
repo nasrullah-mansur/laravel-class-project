@@ -1,0 +1,9 @@
+Slider
+    1. image
+    2. image alt
+    3. content
+
+Category
+    1. Category_name
+    2. Category_slug
+
